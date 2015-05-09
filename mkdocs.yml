@@ -1,1 +1,10 @@
 site_name: Opentact Android API
+pages:
+    - [index.md, Welcome]
+    - [introduction.md, 1.Introduction]
+    - [opentactmanager.md, 2.OpentactManager]
+    - [sipservice.md, 3.SIP Service]
+    - [imservice.md, 4.IM Service]
+    - [utils.md, 5.Utils]
+    - [about.md, About]
+theme: readthedocs
